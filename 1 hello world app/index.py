@@ -1,0 +1,1 @@
+print ('Welcome to Sinhgad Academy Of Engineering !!');
